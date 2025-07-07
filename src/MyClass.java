@@ -24,11 +24,11 @@ public class MyClass {
     public String string7 = "hangi string olduğu ";
 
     // techprobranch versiyont4
-    public String string7 = "dar geldi sana ankara";
+    public String string8 = "dar geldi sana ankara";
 
     //versiyon5
 
-    public String string8 = "bu da çok başka farklı string";
+    public String string9 = "tarabyada villası";
 
 
 
