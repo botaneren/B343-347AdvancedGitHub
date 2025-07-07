@@ -10,4 +10,7 @@ public class MyClass {
 
     public String string3 = "bu da çok farklı string";
 
+    // techprobranch versiyont1
+    public String string4 = "bu techpronun işleri";
+
 }
