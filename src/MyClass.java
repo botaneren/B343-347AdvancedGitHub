@@ -13,4 +13,8 @@ public class MyClass {
     // techprobranch versiyont1
     public String string4 = "bu techpronun işleri";
 
+    // techprobranch versiyont2
+    public String string5 = "bu techpronun işleri";
+
+
 }
