@@ -26,5 +26,10 @@ public class MyClass {
     // techprobranch versiyont4
     public String string7 = "dar geldi sana ankara";
 
+    //versiyon5
+
+    public String string8 = "bu da çok başka farklı string";
+
+
 
 }
