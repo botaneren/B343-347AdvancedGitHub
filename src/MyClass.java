@@ -1,4 +1,4 @@
-public class MyClass {
+public class qqMyClass {
     //versiyon1
 
     public String string1 = "Bu bir stringdir";
