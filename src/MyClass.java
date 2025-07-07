@@ -18,6 +18,13 @@ public class MyClass {
 
     //versiyon4
 
-    public String string3 = "bu da çok başka farklı string";
+    public String string6 = "bu da çok başka farklı string";
+
+    // techprobranch versiyont3
+    public String string7 = "hangi string olduğu ";
+
+    // techprobranch versiyont4
+    public String string7 = "dar geldi sana ankara";
+
 
 }
