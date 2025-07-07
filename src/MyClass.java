@@ -35,6 +35,10 @@ public class MyClass {
     public String string10 = "affet beni aksam ustu";
 
 
+    //Conflict example, v7
+    public String string11 = "Eski koprunun altinda";
+
+
 
 
 }
