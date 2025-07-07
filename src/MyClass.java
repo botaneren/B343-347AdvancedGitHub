@@ -31,5 +31,10 @@ public class MyClass {
     public String string9 = "tarabyada villası";
 
 
+    // techprobranch versiyont5
+    public String string10 = "affet beni aksam ustu";
+
+
+
 
 }
